@@ -1,0 +1,99 @@
+[07.03.15 14:09] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:09] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:09] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:09] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:09] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:10]Обращение к бэкенду сессии
+[07.03.15 14:10]Обращение к бэкенду сессии
+[07.03.15 14:11]Обращение к бэкенду сессии
+[07.03.15 14:11] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:11] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:11] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:11] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:11] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:11] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:11] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:11] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:11] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:11] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:16] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:16] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:16] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:16] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:16] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:16] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:16] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:16] Пользователь закончил сессию
+[07.03.15 14:16] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:16] Авторизация пользователя
+[07.03.15 14:16] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:16] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:16] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:16] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:16] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:16] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:17] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:17] Получение кода пользователя
+[07.03.15 14:17] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:17] Пользователь закончил сессию
+[07.03.15 14:17] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:17] Авторизация пользователя
+[07.03.15 14:17] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:17] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:17] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:17] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:17] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:17] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:17] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:17] Пользователь закончил сессию
+[07.03.15 14:17] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:17] Авторизация пользователя
+[07.03.15 14:17] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:17] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:17] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:17] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:17] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:17] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:17] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:17] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:18] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:18] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:18] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:18] Получение кода пользователя
+[07.03.15 14:18] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:18] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:18] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:18] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:18] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:18] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:18] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:18] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:18] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:18] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:32] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:32] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:32] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:32] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:32] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:32] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:32] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:32] Завершение сессии Oauth 2.0
+[07.03.15 14:33] Обращение к бэкенду сессии: http://www.rosescrm.brottys.ru/account
+[07.03.15 14:33] OAuth 2.0 авторизация пользователя
+[07.03.15 14:33Oauth 2.0 авторизация пользователя прошла успешно: 
+[07.03.15 14:33] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:33] Бэкенд клиентов отправил: JSON ответ
+[07.03.15 14:33] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:33] Бэкенд клиентов отправил JSON ответ
+[07.03.15 14:33] Фронтенд посылает GET-запрос: http://www.rosescrm.brottys.ru/api_client/client?per_page=all \r\n
+[07.03.15 14:33] Бэкенд клиентов отправил JSON ответ 
+[07.03.15 14:36] Фронтенд посылает GET-запрос бэкенду сделок: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:36] Бэкенд сделок успешно отправил JSON ответ со списком сделок
+[07.03.15 14:36] Фронтенд посылает GET-запрос фронтенду клиентов: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:36] Бэкенд клиентов успешно отправил JSON ответ со списком клиентов
+[07.03.15 14:36] Фронтенд посылает GET-запрос бэкенду клиентов: http://www.rosescrm.brottys.ru/api_client/client?per_page=all
+[07.03.15 14:36] Бэкенд клиентов отправил JSON ответ со списком клиентов
+[07.03.15 14:36] Фронтенд посылает GET-запрос бэкенду сделок: http://www.rosescrm.brottys.ru/api_bargain/bargain?per_page=all
+[07.03.15 14:36] Бэкенд сделок успешно отправил JSON ответ со списком сделок
+[07.03.15 14:36] Фронтенд посылает GET-запрос фронтенду клиентов: http://www.rosescrm.brottys.ru/api_client/client_by_id?per_page=all
+[07.03.15 14:36] Бэкенд клиентов успешно отправил JSON ответ со списком клиентов
